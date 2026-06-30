@@ -616,7 +616,7 @@
         flatCounter(); 
         popupVideo();
         sticky();
-        Preloader();
+        /** Preloader(); **/
     });
 
     
