@@ -673,7 +673,7 @@ form button {
 
 /* PreLoad
 -------------------------------------------------------------- */
-.preloader {
+/* .preloader {
   width: 100%;
   height: 100%;
   background-color: #fff;
@@ -686,7 +686,7 @@ form button {
   -ms-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-}
+} */
 
 .clear-loading {
   text-align: center;
@@ -9587,11 +9587,11 @@ footer.style-2.bg-white .bottom-main ul li a:hover {
   cursor: auto;
 }
 
-.mfp-close, .mfp-arrow, .mfp-preloader, .mfp-counter {
+/* .mfp-close, .mfp-arrow, .mfp-preloader, .mfp-counter {
   -webkit-user-select: none;
   -moz-user-select: none;
   user-select: none;
-}
+} */
 
 .mfp-loading.mfp-figure {
   display: none;
@@ -9601,7 +9601,7 @@ footer.style-2.bg-white .bottom-main ul li a:hover {
   display: none !important;
 }
 
-.mfp-preloader {
+/* .mfp-preloader {
   color: #cccccc;
   position: absolute;
   top: 50%;
@@ -9611,7 +9611,7 @@ footer.style-2.bg-white .bottom-main ul li a:hover {
   left: 8px;
   right: 8px;
   z-index: 1044;
-}
+} 
 
 .mfp-preloader a {
   color: #cccccc;
@@ -9623,7 +9623,7 @@ footer.style-2.bg-white .bottom-main ul li a:hover {
 
 .mfp-s-ready .mfp-preloader {
   display: none;
-}
+} */
 
 .mfp-s-error .mfp-content {
   display: none;
