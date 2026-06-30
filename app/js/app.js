@@ -528,12 +528,12 @@
         });
     };
 
-    function Preloader() {
+    /** function Preloader() {
         if ($(".preloader").length) {
             $("body").addClass("page-loaded");
             $(".preloader").delay(1000).fadeOut(0);
         }
-    } 
+    } **/
 
     var flatCounter = function () {
         if ($(document.body).hasClass("counter-scroll")) {
