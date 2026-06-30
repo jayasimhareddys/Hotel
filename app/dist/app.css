@@ -9591,7 +9591,7 @@ footer.style-2.bg-white .bottom-main ul li a:hover {
   -webkit-user-select: none;
   -moz-user-select: none;
   user-select: none;
-} */
+} 
 
 .mfp-loading.mfp-figure {
   display: none;
@@ -9601,7 +9601,7 @@ footer.style-2.bg-white .bottom-main ul li a:hover {
   display: none !important;
 }
 
-/* .mfp-preloader {
+ .mfp-preloader {
   color: #cccccc;
   position: absolute;
   top: 50%;
